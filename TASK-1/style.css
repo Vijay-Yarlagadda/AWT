@@ -1,0 +1,190 @@
+.name{
+    font-size: 34px;
+    font-family: garamond;
+    font-weight: bold;
+    color: #232222;
+    text-align: center;
+    margin: 0 0 12px 0;
+}
+
+.content-table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.content-table td {
+    width: 50%;
+    padding: 4px 6px;
+}
+
+.mail{
+    font-size: 18px;
+    color: #1a1919;
+    text-align: left;
+}
+
+.phone{
+    font-size: 18px;
+    color: #1a1919;
+    text-align: right;
+}
+
+.profile-table{
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.profile-table td {
+    width: 50%;
+    padding: 4px 6px;
+}
+
+.profile{
+    font-size: 24px;
+    color: #1a1919;
+    font-family: georgia;
+    text-align: left;
+    font-weight: bold;
+    margin-top: 0;
+    margin-bottom: 8px;
+}
+
+.profile-content{
+    font-size: 18px;
+    color: #1a1919;
+    text-align: justify;
+    line-height: 1.2;
+}
+
+.skill-table{
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.skill-table td {
+    width: 50%;
+    padding: 4px 6px;
+}
+
+.skills{
+    font-size: 24px;
+    color: #1a1919;
+    font-family: georgia;
+    text-align: left;
+    font-weight: bold;
+    margin-top: 0;
+    margin-bottom: 8px;
+}
+
+.skill-content{
+    font-size: 18px;
+    color: #1a1919;
+    text-align: justify;
+    line-height: 1.2;
+}
+
+.education-table{
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.education{
+    font-size: 24px;
+    color: #1a1919;
+    font-family: georgia;
+    text-align: left;
+    font-weight: bold;
+    margin-top: 0;
+    margin-bottom: 8px;
+}
+
+.education-list, .education-list td {
+    border: 1px solid #1a1919;
+    border-collapse: collapse;
+}
+
+.education-list td{
+    font-size: 18px;
+    color: #1a1919;
+    text-align: left;
+    line-height: 1.2;
+    padding: 4px 6px;
+}
+
+.activities-table{
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.activities-table td {
+    width: 50%;
+    padding: 4px 6px;
+}
+
+.activities{
+    font-size: 24px;
+    color: #1a1919;
+    font-family: georgia;
+    text-align: left;
+    font-weight: bold;
+    margin-top: 0;
+    margin-bottom: 8px;
+}
+
+.activities-content{
+    font-size: 18px;
+    color: #1a1919;
+    text-align: justify;
+    line-height: 1.2;
+}
+
+.projects-table{
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.projects-table td {
+    width: 50%;
+    padding: 4px 6px;
+}
+
+.projects{
+    font-size: 24px;
+    color: #1a1919;
+    font-family: georgia;
+    text-align: left;
+    font-weight: bold;
+    margin-top: 0;
+    margin-bottom: 8px;
+}
+
+.projects-content{
+    font-size: 18px;
+    color: #1a1919;
+    text-align: justify;
+    line-height: 1.2;
+}
+
+.hobbies-table{
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.hobbies-table td {
+    width: 50%;
+    padding: 4px 6px;
+}
+
+.hobbies{
+    font-size: 24px;
+    color: #1a1919;
+    font-family: georgia;
+    text-align: left;
+    font-weight: bold;
+}
+
+.hobbies-content{
+    font-size: 18px;
+    color: #1a1919;
+    text-align: justify;
+}
