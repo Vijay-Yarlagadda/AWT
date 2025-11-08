@@ -1,4 +1,13 @@
-.name{
+.header-section {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    margin: 20px;
+    border-bottom: 2px solid #ccc;
+    padding-bottom: 20px;
+}
+
+.name {
     font-size: 34px;
     font-family: garamond;
     font-weight: bold;
@@ -7,26 +16,22 @@
     margin: 0 0 12px 0;
 }
 
-.content-table {
-    width: 100%;
-    border-collapse: collapse;
-}
-
-.content-table td {
-    width: 50%;
-    padding: 4px 6px;
-}
-
-.mail{
-    font-size: 18px;
-    color: #1a1919;
+.contact-info {
     text-align: left;
 }
 
-.phone{
-    font-size: 18px;
+.contact-item {
+    font-size: 22px;
     color: #1a1919;
-    text-align: right;
+    margin: 15px 0;
+}
+
+.profile-image {
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    margin-left: 20px;
+    border: 3px solid #ddd;
 }
 
 .profile-table{
