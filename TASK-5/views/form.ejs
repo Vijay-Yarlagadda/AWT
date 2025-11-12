@@ -9,7 +9,6 @@
 <body> 
 <div class="container"> 
 <h1>
- 📋
  Student Complaint Form</h1> 
 <form action="/submit" method="POST" class="complaint-form"> 
 <div class="form-group"> 
@@ -48,10 +47,13 @@
      <div class="form-group"> 
        <label for="branch">Branch</label> 
        <select id="branch" name="branch" required> 
-         <option value="" disabled selected>Select your branch</option> 
-         <option value="CSE">CSE</option> 
-         <option value="IT">IT</option> 
-         <option value="ECE">ECE</option> 
+        <option value="" disabled selected>Select your branch</option> 
+        <option value="CSE">CSE</option> 
+        <option value="IT">IT</option> 
+        <option value="ECE">ECE</option> 
+        <option value="EEE">EEE</option>
+        <option value="MECH">MECH</option>
+        <option value="CIVIL">CIVIL</option>
        </select> 
      </div> 
  
@@ -63,6 +65,7 @@
          <option value="Extra-curricular">Extra-Curricular</option> 
          <option value="Travel">Travel</option> 
          <option value="Library">Library</option> 
+          <option value="Other">Other</option>
        </select> 
      </div> 
 
@@ -79,7 +82,7 @@
        ></textarea> 
      </div> 
  
-     <button type="submit">Submit Complaint</button> 
+     <button type="submit">Submit your Complaint</button> 
    </form> 
  </div> 
 </body> 
